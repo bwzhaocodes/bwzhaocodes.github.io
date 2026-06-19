@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![bwzhaocodes](https://img.shields.io/badge/bwzhaocodes-github-blue?logo=github)](https://github.com/bwzhaocodes)
 
 He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
@@ -14,4 +14,3 @@ B.E., Data Science and Big Data Technology, China University of Mining and Techn
 
 #### Research Interests
 Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
