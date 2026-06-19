@@ -1,5 +1,5 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- **2026 Tencent Advertising Algorithm Competition (TAAC)** — Ranked **30th out of 1,873 teams** in the Academic Track as a solo participant. [[Certificate]](static/assets/img/awards/taac-2026.jpg)
 
 - National Scholarship for Graduate Students (Ministry of Education, China), 2024.
 
