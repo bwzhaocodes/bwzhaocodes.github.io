@@ -7,6 +7,3 @@
 
 - **Tencent Scholarship (Xidian University)**, 2025. [[Certificate]](static/assets/awards/tencent-scholarship-2025.pdf)
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
