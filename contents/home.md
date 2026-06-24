@@ -6,11 +6,15 @@
 
 #### Contact
 
-Email: workzbw[at]126.com
+Email: workzbw[at]126.com \
+WeChat: Aqr__008
 
 #### Education
-2023-2026，西安电子科技大学，电子信息，硕士 \
-2019-2023，安徽师范大学，通信工程，学士
+2023-2026, Xidian University, M.S. in Electronic Information \
+2019-2023, Anhui Normal University, B.Eng. in Communication Engineering
+
+#### Work Experience
+Jul. 2026-Present, Recommendation Algorithm Engineer, iQIYI
 
 #### Research Interests
-推荐系统，生成式推荐，LLM
+Recommender Systems, Generative Recommendation, Large Language Models
