@@ -7,7 +7,7 @@
 #### Contact
 
 Email: workzbw[at]126.com \
-WeChat: Aqr__008
+WeChat: `Aqr__008`
 
 #### Education
 2023-2026, Xidian University, M.S. in Electronic Information \
