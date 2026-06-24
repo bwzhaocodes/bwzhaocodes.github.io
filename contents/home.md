@@ -6,7 +6,7 @@
 
 #### Contact
 
-Email: workzbw[at]126.com \
+Email: `workzbw[at]126.com` \
 WeChat: `Aqr__008`
 
 #### Education
