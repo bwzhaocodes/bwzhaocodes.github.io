@@ -1,5 +1,5 @@
 
-- **2026 Tencent Advertising Algorithm Competition (TAAC)** — Ranked **30th out of 1,873 teams** in the Academic Track as a solo participant. [[Certificate]](static/assets/img/awards/taac-2026.jpg)
+- **2026 Tencent Advertising Algorithm Competition (TAAC)** — Ranked **30th out of 1,873 teams** in the Academic Track as a solo participant. [[Certificate]](static/assets/img/awards/taac-2026.jpg) [[Code]](https://github.com/bwzhaocodes/TAAC-Tencent-2026)
 
 - **Outstanding Master's Degree Recipient, Xidian University**, 2026. [[Certificate]](static/assets/awards/outstanding-masters-degree-2026.pdf)
 
